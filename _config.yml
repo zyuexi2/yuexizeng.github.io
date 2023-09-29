@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title 
-email: author_email@email.com 
+title: What Are the Future Jobs Path for Data Science Major Students
+email: yuexizeng77@gmail.com 
 description: "Change the description so that it describes your blog" 
 baseurl: "/stat386-blog-theme" # the name of the repository 
 url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
