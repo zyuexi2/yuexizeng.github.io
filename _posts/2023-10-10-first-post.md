@@ -23,4 +23,9 @@ Bar Charts:
 Bar charts are widely used for comparing categories or discrete data points. They are effective in showing the relationships between different groups or items. Bar charts are ideal for comparing categories or discrete data, such as sales figures for different products, student grades for different subjects, or customer satisfaction scores for different services.
 Here are some code examples:
 
+{% raw %}![Figure](assets/images/Barchartcodes.png){% endraw %}
+
+
+Line Charts: 
+Line charts are commonly employed to display trends over time. They are ideal for illustrating changes and patterns in data, making them popular in time series analysis. Line charts are excellent for showing trends over time or continuous data, such as stock prices over months, temperature variations throughout the day, or website traffic over years.
 
