@@ -18,3 +18,4 @@ The choice of chart is paramount in data visualization for several reasons. It d
 Types of charts:
 
 Data visualizations come in various forms, each tailored to serve specific purposes. From classic bar charts that excel at comparing categories to line charts adept at tracking trends over time, the world of data visualization offers a versatile toolkit. Scatter plots unveil the relationships between two variables, while pie charts offer insights into the composition of a whole. Beyond these, there are lesser-known gems like heatmaps, tree maps, and bubble charts, each catering to unique data visualization needs. Understanding these types and when to use them is fundamental to effective data communication, enabling you to choose the right visual representation to unveil your data's underlying story. For this blog we will give you some tutorial on some of the most common used charts.
+
