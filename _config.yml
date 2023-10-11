@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Choosing the Right Chart for Your Data: A Quick Guide" 
+title: "Data Blog Time" 
 email: yuexizeng77@gmail.com 
-description: "This a brief overview of common chart types and when to use them.  This would be a quick reference for studentsto select appropriate charts for their data without diving into advanced techniques." 
+description: "This is a little blog site about some Data thoughts" 
 baseurl: "/yuexizeng.github.io" # the name of the repository 
 url: "https://zyuexi2.github.io/yuexizeng.github.io/" #  change this to "https://<your-github-username>.github.io"
 image: https://unsplash.com/photos/6EnTPvPPL6I
@@ -29,7 +29,7 @@ copyright: YZ # Your initials or what you want the copyright to be.  Leave empty
 footer_description: 'The default image for the site header is a random image from 
         <a href="https://unsplash.com/photos/6EnTPvPPL6I" target="_blank"> Unsplash</a>. 
         The default image for the blog post is from
-        <a href="https://unsplash.com/photos/DWpR-BpKlw0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" target="_blank"
+        <a href="https://unsplash.com/photos/JKUTrJ4vK00" target="_blank"
         >Unsplash by Issac Smith</a>. Students in Stat 386 using this theme should replace both images 
         with their own.'
 
