@@ -19,3 +19,8 @@ Types of charts:
 
 Data visualizations come in various forms, each tailored to serve specific purposes. From classic bar charts that excel at comparing categories to line charts adept at tracking trends over time, the world of data visualization offers a versatile toolkit. Scatter plots unveil the relationships between two variables, while pie charts offer insights into the composition of a whole. Beyond these, there are lesser-known gems like heatmaps, tree maps, and bubble charts, each catering to unique data visualization needs. Understanding these types and when to use them is fundamental to effective data communication, enabling you to choose the right visual representation to unveil your data's underlying story. For this blog we will give you some tutorial on some of the most common used charts.
 
+Bar Charts: 
+Bar charts are widely used for comparing categories or discrete data points. They are effective in showing the relationships between different groups or items. Bar charts are ideal for comparing categories or discrete data, such as sales figures for different products, student grades for different subjects, or customer satisfaction scores for different services.
+Here are some code examples:
+
+
