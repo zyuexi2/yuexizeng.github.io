@@ -23,13 +23,13 @@ email: yuexizeng77@gmail.com
 description: "This is a little blog site about some Data thoughts" 
 baseurl: "/yuexizeng.github.io" # the name of the repository 
 url: "https://zyuexi2.github.io/yuexizeng.github.io/" #  change this to "https://<your-github-username>.github.io"
-image: https://github.com/zyuexi2/yuexizeng.github.io/blob/main/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
+image: assets/images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 author: Yuexi Zeng
 copyright: YZ # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
-        <a href="https://github.com/zyuexi2/yuexizeng.github.io/blob/main/firmbee-com-jrh5lAq-mIs-unsplash.jpg" target="_blank"> Unsplash</a>. 
+        <a href="assets/images/firmbee-com-jrh5lAq-mIs-unsplash.jpg" target="_blank"> Unsplash</a>. 
         The default image for the blog post is from
-        <a href="https://github.com/zyuexi2/yuexizeng.github.io/blob/main/isaac-smith-6EnTPvPPL6I-unsplash.jpg" target="_blank"
+        <a href="assets/images/isaac-smith-6EnTPvPPL6I-unsplash.jpg" target="_blank"
         >Unsplash by Issac Smith</a>. Students in Stat 386 using this theme should replace both images 
         with their own.'
 
