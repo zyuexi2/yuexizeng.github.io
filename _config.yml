@@ -23,7 +23,7 @@ email: yuexizeng77@gmail.com
 description: "This is a little blog site about some Data thoughts" 
 baseurl: "/yuexizeng.github.io" # the name of the repository 
 url: "https://zyuexi2.github.io/yuexizeng.github.io/" #  change this to "https://<your-github-username>.github.io"
-image: https://unsplash.com/photos/6EnTPvPPL6I
+image: https://unsplash.com/photos/KE0nC8-58MQ
 author: Yuexi Zeng
 copyright: YZ # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
