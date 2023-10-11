@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title 
+title: Choosing the Right Chart for Your Data: A Quick Guide 
 email: author_email@email.com 
 description: "Change the description so that it describes your blog" 
 baseurl: "/stat386-blog-theme" # the name of the repository 
