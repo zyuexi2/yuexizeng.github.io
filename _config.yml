@@ -19,32 +19,32 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Choosing the Right Chart for Your Data: A Quick Guide" 
-email: author_email@email.com 
-description: "Change the description so that it describes your blog" 
-baseurl: "/stat386-blog-theme" # the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://source.unsplash.com/random
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+email: yuexizeng77@gmail.com 
+description: "This a brief overview of common chart types and when to use them.  This would be a quick reference for studentsto select appropriate charts for their data without diving into advanced techniques." 
+baseurl: "/yuexizeng.github.io" # the name of the repository 
+url: "https://zyuexi2.github.io/yuexizeng.github.io/" #  change this to "https://<your-github-username>.github.io"
+image: https://unsplash.com/photos/6EnTPvPPL6I
+author: Yuexi Zeng
+copyright: YZ # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
-        <a href="https://source.unsplash.com/random" target="_blank"> Unsplash</a>. 
+        <a href="https://unsplash.com/photos/6EnTPvPPL6I" target="_blank"> Unsplash</a>. 
         The default image for the blog post is from
         <a href="https://unsplash.com/photos/DWpR-BpKlw0?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" target="_blank"
-        >Unsplash by Mohamed Elsayed</a>. Students in Stat 386 using this theme should replace both images 
+        >Unsplash by Issac Smith</a>. Students in Stat 386 using this theme should replace both images 
         with their own.'
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
+twitter_username: 
+github_username:  yuexizeng
+linkedin_username: yuexizeng
 dribbble_username: 
-facebook_username: 386student
+facebook_username: yuexizeng
 flickr_username:
-instagram_username: 
+instagram_username: yuexizeng
 pinterest_username:
 youtube_username: 
-googleplus_username: 386student
+googleplus_username: 
 
 plugins:
   - jekyll-feed
