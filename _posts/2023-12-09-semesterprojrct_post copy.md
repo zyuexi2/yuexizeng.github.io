@@ -42,16 +42,16 @@ The two lines indicate the highest price (in blue) and the lowest price (in red)
 ![Scatter Plot](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/correlation.png?raw=true)
 
 
-##### Weak Positive Linear Relationship: 
+### Weak Positive Linear Relationship: 
 This coefficient indicates a weak positive linear relationship between Tesla's stock price and the number of fatalities. This suggests that there is a slight tendency for the stock price and fatalities to increase together, albeit weakly.
 
-##### Correlation ≠ Causation: 
+### Correlation ≠ Causation: 
 A fundamental principle in data analysis is that correlation does not equate to causation. Therefore, while the stock prices and reported fatalities move together to a small extent, we cannot assert that one causes the other.
 
-##### A Multitude of Influencing Factors: 
+### A Multitude of Influencing Factors: 
 Tesla's stock price is subject to a vast array of factors ranging from market trends and investor sentiment to company performance and broader economic indicators. Similarly, the number of reported deaths is a multifaceted issue, influenced by numerous variables beyond the company's stock valuation.
 
-##### Statistical Significance: 
+### Statistical Significance: 
 The correlation coefficient by itself does not confirm if the relationship observed is statistically significant. To establish significance, additional testing, such as p-value analysis, is required.
 
 
