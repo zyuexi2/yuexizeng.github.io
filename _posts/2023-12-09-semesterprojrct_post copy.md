@@ -11,24 +11,31 @@ In the fast-paced world of electric vehicles, Tesla stands out as a beacon of in
 
 
 
+
 ## The Data Tells a Story
+
 Our EDA began with Tesla's fatality data. Using a dataset sourced from Kaggle, we meticulously analyzed each incident involving Tesla vehicles that led to fatalities. The data, detailed and sobering, provided not just statistics but also stories that needed to be told with sensitivity. We charted the number of deaths over time and across different countries, revealing patterns and raising questions about the factors contributing to these unfortunate events.
+
+
+![Tesla Number of Death per Year](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/death-year.png?raw=true)
+
+![Tesla Number of Death by Country](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/death-country.png?raw=true)
+
+![Tesla Number of Incidents by Models](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/model-incidents.png?raw=true)
 
 The next piece of the puzzle was Tesla's stock performance. Leveraging financial databases and APIs, we plotted the company's stock prices, capturing the highs and lows of Tesla's market journey. We observed the stock's volatility, its meteoric rises, and the dips that followed major incidents or announcements.
 
-## Visual Insights
+
+![High & Low Price of Tesla](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/stock1.png?raw=true)
 
 
-In our visual analysis, the first chart we looked at depicted the number of deaths against Tesla's stock closing prices (Image 1). While one might expect a high number of fatalities to correlate with a dip in stock prices, our initial observations did not reveal a direct correlation. This raised intriguing questions about market sentiment and the factors investors consider when valuing a company.
-
-Next, we turned our attention to the distribution of fatalities by country (Image 2). The USA led by a significant margin, followed by China and Germany. This prompted a discussion on global safety standards, Tesla's autopilot usage, and the regulatory environment in different regions.
-
-We also examined the number of fatalities over the years (Image 3). The data showed an increasing trend in recent years, which we cross-examined with Tesla's growing sales and expanded market presence.
-
-Another angle we explored was the number of incidents by Tesla model (Image 4). This analysis offered a model-specific view, hinting at potential differences in safety by design or technology.
 
 
 ## The Subtleties of Correlation
+
+
+
+![Scatter Plot](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/correlation.png?raw=true)
 
 
 ##### Weak Positive Linear Relationship: 
