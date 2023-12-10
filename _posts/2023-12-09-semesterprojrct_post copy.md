@@ -19,7 +19,11 @@ Our EDA began with Tesla's fatality data. Using a dataset sourced from Kaggle, w
 
 ![Tesla Number of Death per Year](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/death-year.png?raw=true)
 
+The bars represent the number of deaths each year, with a visible increase over time. Starting from a few deaths in 2013, there is a fluctuating pattern with a notable rise in deaths starting in 2019, peaking in 2021 with the highest number of fatalities represented by the tallest bar on the chart. The year 2022 shows a slight decrease from 2021 but remains high compared to the earlier years. 
+
 ![Tesla Number of Death by Country](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/death-country.png?raw=true)
+
+The graph lists various countries along the vertical axis and the corresponding number of deaths on the horizontal axis. The United States is depicted with the highest number of deaths, indicated by the longest bar, which suggests a significant lead over the other countries. Following the USA are China and Germany, with notably shorter bars than the USA but still substantial compared to the rest. Other countries such as Canada, the Netherlands, and Norway show smaller numbers of deaths. The rest of the countries listed—including the UK, Taiwan, France, and several others—have increasingly smaller bars, indicating fewer fatalities. This graph provides an overview of the distribution of deaths attributed to Tesla incidents across different nations, highlighting geographical differences in such incidents.
 
 ![Tesla Number of Incidents by Models](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/model-incidents.png?raw=true)
 
@@ -28,12 +32,12 @@ The next piece of the puzzle was Tesla's stock performance. Leveraging financial
 
 ![High & Low Price of Tesla](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/stock1.png?raw=true)
 
-
+The two lines indicate the highest price (in blue) and the lowest price (in red) of the stock at various points in time. From the start of the graph to around 2020, both lines track closely together, showing relatively modest fluctuations in the stock's price. However, starting in 2020, there is a significant increase in both the high and low values, indicating a period of substantial growth and volatility. The high price line reaches its peak in late 2021 or early 2022, where it surpasses a value of 1200. After this peak, there's a noticeable decline, but the prices remain at a much higher level than in the years preceding 2020. The graph displays the dynamic nature of Tesla's stock prices, with a marked upturn in the latter part of the decade shown.
 
 
 ## The Subtleties of Correlation
 
-
+![Correlation number](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/correlation%20number.png?raw=true)
 
 ![Scatter Plot](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/correlation.png?raw=true)
 

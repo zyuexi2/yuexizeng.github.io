@@ -11,7 +11,9 @@ In this insightful exploration, we delve into the dynamic world of finance and t
 
 ![Tesla](https://github.com/zyuexi2/yuexizeng.github.io/blob/main/assets/images/Tesla-inside.jpg?raw=true)
 
+
 ## Question
+
 The genesis of this project was sparked by a personal connection – a friend contemplating the purchase of a Tesla. This decision brought to the forefront questions not only about the car's technological prowess but also about the company's standing in the tumultuous world of the stock market. Driven by this curiosity, we set out to investigate how Tesla, a titan in both the high-tech and automotive industries, fares when its vehicles are involved in fatalities. How do these incidents impact Tesla's stock prices? 
 
 
