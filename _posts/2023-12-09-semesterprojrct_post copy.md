@@ -7,48 +7,60 @@ image: "assets/images/Tesla-carback.jpg"
 ---
 
 ## Introduction
-In this insightful exploration, we delve into the dynamic world of finance and technology, with a focus on Tesla, a company emblematic of groundbreaking innovation and occasional controversy. This project transcends the boundaries of a typical academic exercise, venturing into a real-world examination of how significant events associated with a high-profile company like Tesla can sway investor sentiment and shape market dynamics.
-
-
-## Question
-The genesis of this project was sparked by a personal connection – a friend contemplating the purchase of a Tesla. This decision brought to the forefront questions not only about the car's technological prowess but also about the company's standing in the tumultuous world of the stock market. Driven by this curiosity, we set out to investigate how Tesla, a titan in both the high-tech and automotive industries, fares when its vehicles are involved in fatalities. How do these incidents impact Tesla's stock prices? 
-
-
-## Data
-
-The cornerstone of our project is a meticulously orchestrated data collection process, where accuracy and ethical sourcing stood as our guiding principles:
-
-##### Stock Price Data:
-Our journey commenced with the collection of Tesla's historical stock prices, utilizing a combination of financial databases and stock market APIs. This dataset is pivotal, providing the framework to trace Tesla's stock price trends against a timeline of events.
-
-##### Death Data Collection:
-Our pursuit of accurate and ethically sourced data led us to a thorough exploration of various platforms. The quest for data that was both reliable and publicly permissible steered us to Kaggle. On this platform, we discovered a dataset that meticulously chronicled incidents involving Tesla vehicles that resulted in fatalities. This dataset includes precise details on the date, location, model involved, crash descriptions, fatalities, and whether Autopilot was engaged, providing an in-depth view of each incident.
-
-##### Data Integration:
-The essence of our study lies in the sophisticated process of merging the stock data with the incident data. By aligning the dates of specific events with Tesla's stock price movements, our goal is to uncover patterns and correlations that provide a deeper understanding of the market's reaction to these incidents.
-
-## Ethical Considerations
-
-Our approach to analyzing Tesla's stock performance in relation to reported fatalities is guided by a steadfast commitment to ethical integrity, encompassing the following key areas:
+In the fast-paced world of electric vehicles, Tesla stands out as a beacon of innovation and ambition. Yet, with its rapid growth and technological advances come questions about safety and market performance. This blog post is the second installment in our journey to understand Tesla better, this time through the lens of Exploratory Data Analysis (EDA).
 
 
 
-##### Respect for Privacy:
-In dealing with data that encompasses real-life incidents, we are acutely conscious of the sensitive nature of personal information. We have ensured that all personal details related to the incidents are handled with the utmost confidentiality and sensitivity. Our analysis focuses on aggregate data trends rather than individual cases, thereby safeguarding personal privacy while still providing meaningful insights.
+## The Data Tells a Story
+Our EDA began with Tesla's fatality data. Using a dataset sourced from Kaggle, we meticulously analyzed each incident involving Tesla vehicles that led to fatalities. The data, detailed and sobering, provided not just statistics but also stories that needed to be told with sensitivity. We charted the number of deaths over time and across different countries, revealing patterns and raising questions about the factors contributing to these unfortunate events.
+
+The next piece of the puzzle was Tesla's stock performance. Leveraging financial databases and APIs, we plotted the company's stock prices, capturing the highs and lows of Tesla's market journey. We observed the stock's volatility, its meteoric rises, and the dips that followed major incidents or announcements.
+
+## Visual Insights
 
 
-##### Objectivity:
-Objectivity is the cornerstone of our analytical framework. We are dedicated to maintaining an unbiased perspective throughout our study. While our analysis may shed light on correlations between Tesla's stock performance and specific incidents, we are careful to present our findings in a way that does not unjustly influence public opinion about Tesla or the individuals involved in these incidents. Our goal is to provide a clear, data-driven perspective, free from personal biases or preconceived notions about the company or its products.
+In our visual analysis, the first chart we looked at depicted the number of deaths against Tesla's stock closing prices (Image 1). While one might expect a high number of fatalities to correlate with a dip in stock prices, our initial observations did not reveal a direct correlation. This raised intriguing questions about market sentiment and the factors investors consider when valuing a company.
+
+Next, we turned our attention to the distribution of fatalities by country (Image 2). The USA led by a significant margin, followed by China and Germany. This prompted a discussion on global safety standards, Tesla's autopilot usage, and the regulatory environment in different regions.
+
+We also examined the number of fatalities over the years (Image 3). The data showed an increasing trend in recent years, which we cross-examined with Tesla's growing sales and expanded market presence.
+
+Another angle we explored was the number of incidents by Tesla model (Image 4). This analysis offered a model-specific view, hinting at potential differences in safety by design or technology.
 
 
-##### Data Integrity
-Upholding data integrity is crucial to our project's credibility. We have meticulously selected our data sources for their reliability and accuracy. Throughout our analysis, we remain transparent about the origins of our data and openly acknowledge any limitations or potential biases inherent in our data sources. We have made concerted efforts to ensure that the data underpinning our analysis is robust, accurately reflecting the trends and patterns we report.
+## The Subtleties of Correlation
+
+
+##### Weak Positive Linear Relationship: 
+This coefficient indicates a weak positive linear relationship between Tesla's stock price and the number of fatalities. This suggests that there is a slight tendency for the stock price and fatalities to increase together, albeit weakly.
+
+##### Correlation ≠ Causation: 
+A fundamental principle in data analysis is that correlation does not equate to causation. Therefore, while the stock prices and reported fatalities move together to a small extent, we cannot assert that one causes the other.
+
+##### A Multitude of Influencing Factors: 
+Tesla's stock price is subject to a vast array of factors ranging from market trends and investor sentiment to company performance and broader economic indicators. Similarly, the number of reported deaths is a multifaceted issue, influenced by numerous variables beyond the company's stock valuation.
+
+##### Statistical Significance: 
+The correlation coefficient by itself does not confirm if the relationship observed is statistically significant. To establish significance, additional testing, such as p-value analysis, is required.
+
+
+In essence, the correlation coefficient revealed a slight positive relationship between the stock price and fatalities, yet this is a weak link and should be interpreted with caution. The stock market is a complex ecosystem, and Tesla's valuation is contingent upon a host of factors, just as the occurrence of fatalities has its independent determinants.
 
 
 
-## Conclusion
 
-This project presents a unique intersection of data analysis, financial market dynamics, and societal impact. Through our exploration, we aim not only to understand the interplay between corporate events and stock performance but also to contribute thoughtfully to the discourse on automotive safety and technological advancement. Our findings have the potential to offer valuable insights into investor behavior, corporate responsibility, and public perception, particularly in the realm of cutting-edge technology and its implications.
+
+
+## Final Thoughts
+
+
+As we conclude this phase of our data-driven exploration into Tesla's stock performance and reported fatalities, our journey has been as enlightening as it has been intricate. We've unearthed a tenuous connection between stock prices and safety incidents, a relationship that speaks to the multifaceted nature of market forces and public perception. 
+
+Moving forward, our experience paves the way to investigate wider questions. For instance, how do similar correlations play out in other high-innovation industries? Could a comparative study across different companies reveal common patterns, or would it highlight the uniqueness of each firm's situation?
+
+
+
+
 
 
 
